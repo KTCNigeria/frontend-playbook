@@ -28,6 +28,43 @@
 </details>
 <details>
 <summary>Intermediate</summary>
+
+**1. HTML**
+- HTML Forms
+- HTML Canvas
+- SVG
+- Adding Media (Video, Audio, Embeds)
+
+**2. CSS**
+- Styling Forms
+- Attributes Selectors
+- Measurement Units (px, rem, em, %, vh, vw)
+- Layout
+- CSS Variables
+- Using Web Fonts
+- Responsiveness
+
+**3. JavaScript**
+- JS Loops
+- JS Objects
+- JS Classes
+- JS Events
+- JS Functions
+- JS Strings and Numbers (Methods)
+- JS Arrays
+- JS Dates
+- Math
+- JS Scope
+- JS Hoisting
+- DOM Manipulation Basics
+
+**4. Git & GitHub**
+- Creating/Initialising a Repo
+- Commits
+- Push & Pull
+- Pull/merge Requests
+- Branches
+
 </details>
 <details>
 <summary>Advanced</summary>
@@ -36,9 +73,18 @@
 ## Phase Two: Building
 <details>
 <summary>Basic</summary>
+
+- Simple Recipe App
+- Dog Photo App
+- Pricing component for a physical product
 </details>
 <details>
 <summary>Intermediate</summary>
+
+- Clone a popular website 
+- Weather App
+- Tip Calculator
+- Random fun facts website
 </details>
 <details>
 <summary>Advanced</summary>
