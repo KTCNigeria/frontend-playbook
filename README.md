@@ -89,3 +89,7 @@
 <details>
 <summary>Advanced</summary>
 </details>
+
+
+
+<!-- content credits to Fueler, FCC, TheOdinProject and WebDevSimplified -->
