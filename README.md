@@ -77,6 +77,7 @@
 - Simple Recipe App
 - Dog Photo App
 - Pricing component for a physical product
+- [Age Calculator](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q)
 </details>
 <details>
 <summary>Intermediate</summary>
@@ -89,10 +90,8 @@
 <details>
 <summary>Advanced</summary>
 
-- Age Calculator
 - [Rock Paper Scissors game](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
 - [Multi-Step Form](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
-- [Age Calculator](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q)
 </details>
 
 
