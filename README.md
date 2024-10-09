@@ -80,6 +80,10 @@
 </details>
 <details>
 <summary>Intermediate</summary>
+- Create a notifier
+- A chat app
+- Restaurant order website
+- translator app (extreme, limited language is okay)
 
 - Clone a popular website 
 - Weather App
