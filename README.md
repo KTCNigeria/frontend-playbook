@@ -90,6 +90,12 @@
 <summary>Advanced</summary>
 </details>
 
+## Resources: for building
+- [Help](https://chat.openai.com)
+- [Libaries](https://cdnjs.com)
+- [Icons](https://fontawesome.com)
+- [Fonts](https://fonts.google.com)
+- [Pictures](https://www.pexels.com)
 
 
 <!-- content credits to Fueler, FCC, TheOdinProject and WebDevSimplified -->
