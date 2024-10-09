@@ -71,10 +71,15 @@ i:hover {
 }
 
 .dog-pic {
-  height: 80%;
-  width: 20vw;
+  width: 40vw;
 }
 
 .dog-name {
   text-align: center;
+}
+
+@media screen and (min-width: 700px) {
+  .dog-pic {
+    width: 20vw;
+  }
 }
