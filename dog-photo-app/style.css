@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  gap: 3rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(249, 140, 110, 0.3);
+}
+
+header {
+  gap: 2rem;
+  display: flex;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  flex-direction: column;
+  font-optical-sizing: auto;
+  font-family: "Sixtyfour Convergence", sans-serif;
+  font-variation-settings: "BLED" 0, "SCAN" 0, "XELA" 0, "YELA" 0;
+}
+
+main {
+  gap: 2rem;
+  width: 84vw;
+  height: 70vh;
+  padding: 1rem;
+  display: flex;
+  font-weight: 400;
+  font-style: normal;
+  align-items: center;
+  justify-content: center;
+  font-family: "Londrina Sketch", sans-serif;
+}
+
+.logo {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.gallery-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-text {
+  opacity: 70%;
+}
+
+.logo-pic {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+}
+
+i {
+  opacity: 50%;
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+i:hover {
+  opacity: 30%;
+}
+
+.dog-pic {
+  height: 80%;
+  width: 20vw;
+}
+
+.dog-name {
+  text-align: center;
+}
