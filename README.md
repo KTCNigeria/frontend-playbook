@@ -143,6 +143,22 @@
 </details>
 <details>
 <summary>Advanced</summary>
+
+**1. Javascript**
+- Arrow Functions
+- Destructuring
+- Spread and Rest Operators
+- Promises and Async/Await
+- Modules (import/export)
+
+**2. React.js Basics**
+- JSX
+- Components
+- Props and State
+- Hooks: e.g useEffect, useState
+- Events in React
+- Simple Routing with React Router
+
 </details>
 
 ## Phase Two: Building
