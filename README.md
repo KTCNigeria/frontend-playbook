@@ -190,20 +190,20 @@
 # <p align="center"> Resource materials to aid your journey </p>
 
 ## HTML & CSS
-  [W3schools](https://www.w3schools.com/html/)
-  [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
-  [CSS-Tricks - "HTML & CSS – The VERY Basics]( https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
-  [HTML Handbook](https://flaviocopes.com/page/html-handbook)
-  [CSS Handbook](https://flaviocopes.com/page/css-handbook)
+  - [W3schools](https://www.w3schools.com/html/)
+  - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+  - [CSS-Tricks - "HTML & CSS – The VERY Basics]( https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
+  - [HTML Handbook](https://flaviocopes.com/page/html-handbook)
+  - [CSS Handbook](https://flaviocopes.com/page/css-handbook)
 
 ### If you have lose change you can consider getting this 🙃🙃
   [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ## JAVASCRIPT
-  [MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [W3schools](https://www.w3schools.com/js/default.asp)
-  [NetNinja JS Playlist](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-  [Jonas Schmedtmann]()
+  - [MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [W3schools](https://www.w3schools.com/js/default.asp)
+  - [NetNinja JS Playlist](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+  - [Jonas Schmedtmann]()
 
 ### If you have lose change you can consider getting this 🙃🙃
   [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
