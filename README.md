@@ -1,16 +1,17 @@
 # <p align="center">Frontend Web Development Roadmap</p>
 
 ## Phase One: Learning
+
 <details>
 <summary>Basic</summary>
 
-**1. Get familiar with an editor (Visual Studio Code Recommended)**
+## 1. Get familiar with an editor (Visual Studio Code Recommended)
 
-  ## Setting Up Visual Studio Code
+## Setting Up Visual Studio Code
 
   Getting up and running with Visual Studio Code is quick and easy. It is a small download so you can install in a matter of minutes.
 
-  ### Installation on Windows
+### Installation on Windows
 
   1. Download the [Visual Studio Code Installer](https://code.visualstudio.com/docs?dv=win) for windows.
   2. Once it is downloaded, run the installer `VSCodeUserSetup-{version}.exe`. This will only take a minute.  
@@ -20,7 +21,8 @@
   This is so that the `%PATH%` environmental variable can take effect.
   **Alternatively you can also download a [Zip Archive](https://code.visualstudio.com/docs/?dv=winzip), extract it and run the code from there.**
 
-  ### Installation on macOS
+### Installation on macOS
+
   1. [Download Visual Studio Code](https://code.visualstudio.com/docs?dv=osx) for macOS.
   2. Open the browser's download list and locate the downloaded app or archive.
   3. If archive, extract the archive contents. Use double-click for some browsers or select the 'magnifying glass' icon with Safari.
@@ -30,17 +32,19 @@
 
   **Launching from the command line**.
 
-  - Launch VS Code.
-  - Open the Command Palette `Cmd+Shift+P` and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
+  -Launch VS Code.
+  -Open the Command Palette `Cmd+Shift+P` and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
   ![shell-command-image](/shell-command.png)
-  - Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
+  -Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
   **Note:** If you still have the old `code` alias in your `.bash_profile `(or equivalent) from an early VS Code version, remove it and replace it by executing the `Shell Command: Install 'code' command in PATH` command. 
 
-  ### Installation on Linux
+### Installation on Linux
+
   See the [Download Visual Studio](https://code.visualstudio.com/download) Code page for a complete list of available installation options.
 
-  #### Debian and Ubuntu based distributions
+#### Debian and Ubuntu based distributions
+  
   The easiest way to install Visual Studio Code for Debian/Ubuntu based distributions is to download and install the [.deb package (64-bit)](https://go.microsoft.com/fwlink/?LinkID=760868), either through the graphical software center if it's available, or through the command line with:
   
   ```
@@ -162,6 +166,7 @@
 </details>
 
 ## Phase Two: Building
+
 <details>
 <summary>Basic</summary>
 
@@ -180,6 +185,28 @@
 <details>
 <summary>Advanced</summary>
 </details>
+
+
+# <p align="center"> Resource materials to aid your journey </p>
+
+## HTML & CSS
+  - [W3schools](https://www.w3schools.com/html/)
+  - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+  - [CSS-Tricks - "HTML & CSS – The VERY Basics]( https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
+  - [HTML Handbook](https://flaviocopes.com/page/html-handbook)
+  - [CSS Handbook](https://flaviocopes.com/page/css-handbook)
+
+### If you have lose change you can consider getting this 🙃🙃
+  [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+
+## JAVASCRIPT
+  - [MDN DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [W3schools](https://www.w3schools.com/js/default.asp)
+  - [NetNinja JS Playlist](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+  - [Jonas Schmedtmann]()
+
+### If you have lose change you can consider getting this 🙃🙃
+  [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 
 
