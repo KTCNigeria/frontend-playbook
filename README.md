@@ -184,6 +184,18 @@
 </details>
 <details>
 <summary>Advanced</summary>
+
+- [IP Address Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+- [Multi-step form](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
+
+### Challenge Yourself Further
+** Work on the following projects to enhance your React skills. These projects can also be implemented using HTML, CSS, and JavaScript, providing ample opportunities to practice and improve.**
+
+- [Space tourism multi-page website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+- [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
+- [Rock, Paper, Scissors game](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
+
+** To get started, visit [frontend mentor](https://www.frontendmentor.io/home), create an account and dive into these projects.**
 </details>
 
 
