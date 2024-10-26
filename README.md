@@ -198,6 +198,12 @@
 **To get started, visit [frontend mentor](https://www.frontendmentor.io/home), create an account and dive into these projects.**
 </details>
 
+## Resources: for building
+- [Help](https://chat.openai.com)
+- [Libaries](https://cdnjs.com)
+- [Icons](https://fontawesome.com)
+- [Fonts](https://fonts.google.com)
+- [Pictures](https://www.pexels.com)
 
 # <p align="center"> Resource materials to aid your journey </p>
 
